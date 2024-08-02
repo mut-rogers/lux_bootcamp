@@ -19,3 +19,5 @@ Below are the guiding questions for the notebook
 8. Find all instances where the weather is clear and the relative humidity is greater than 50, or visibility is above 40.
 
 9. Find the number of weather conditions that include snow.
+
+## Part 2: Move this CSV into a database of your choice and use SQL to answer 4 of the questions above
