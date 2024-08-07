@@ -1,6 +1,6 @@
 ## Week 2: EDA Assignment on the Weather Dataset Analysis 
-______
-### Perform Exploratory Data Analysis (EDA) to uncover interesting patterns, insights, and potential anomalies within the Weather dataset that we used for week 1 Assignment.
+
+## Perform Exploratory Data Analysis (EDA) to uncover interesting patterns, insights, and potential anomalies within the Weather dataset that we used for week 1 Assignment.
 
 ## Please address the following questions and tasks in your analysis:
 
