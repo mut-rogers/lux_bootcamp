@@ -1,5 +1,5 @@
-Week 4 Assignment and Technical Article for the Data Science and Analytics Boot Camps 
-
+### Week 4 Assignment and Technical Article for the Data Science and Analytics Boot Camps 
+___
 '1). Write a Python program to check whether a string is a palindrome or not using a stack.
 PS: Pay attention to the specified data structure.
 
@@ -12,6 +12,6 @@ PS: Pay attention to the specified data structure.
 5). Given a dictionary with keys as letters and values as lists of letters, write a function closest_key to find the key with the input value closest to the beginning of the list.
 ___
 Instructions: Push your code into a GitHub repository and document your work thoroughly.
-
+___
 Week 4 Technical Article: Write an article of more than 300 words titled "The Ultimate Guide to Data Analytics."
 Note: You should explain the data career of your choice, such as data analysis, data science, data engineering, etc.
