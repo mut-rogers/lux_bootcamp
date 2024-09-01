@@ -13,4 +13,11 @@ This stage will involve;
 
 - Creating an API Key and restricting access only for YouTube API 
 
+#### 2. Connecting to the API 
+__ 
+This stage will involve;
+- Installing the necessary libraries, e.g., google api client, 
 
+- Setting up and testing access
+
+- 
