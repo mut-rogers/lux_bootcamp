@@ -1,5 +1,6 @@
-### DATA ANALYSIS PROJECT
-__
+## DATA ANALYSIS PROJECT
+_____
+
 ### Task
 Scrape data from Amazon, Jumia, or any other e-commerce website to create a list of all products currently offered at a discount and store them in a relational database.
 
