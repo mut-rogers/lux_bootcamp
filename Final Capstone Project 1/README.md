@@ -14,13 +14,15 @@ Perform EDA on the data  that you have stored in the relational database for you
  - Scrapy 
  - Pandas 
  - Numpy 
+ - SQLAlchemy 
+ - Requests
 
  ## Implementation Stages 
 
  ### 1. Installing Necessary Libraries 
- At this stage, below libraries will be installed;
+ At this stage, below libraries will be installed; 
 
- - Python, Beautiful Soup, Selenium, Scrapy, Pandas, Numpy
+ ### 2. 
 
 
 
